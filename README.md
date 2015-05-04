@@ -16,3 +16,5 @@ The following steps show how to setup your environment to build the solution and
 6. Open the Cars.sln
 7. Build it
 8. The tests should be displayed in the Test Explorer and should run "green"
+ * The test explorer is located in menu **TEST -> Windows -> Test Explorer**
+ * Execute all tests with **run all**
